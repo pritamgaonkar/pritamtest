@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_embedded_help_role">
+    <sys_embedded_help_role action="INSERT_OR_UPDATE">
+        <order>1000</order>
+        <role display_value="sn_dd_ddtestpritam_publishtoapprepo" name="sn_dd_ddtestpritam_publishtoapprepo">cace2c5cdb1ea8102cc1fd131d96195c</role>
+        <sys_class_name>sys_embedded_help_role</sys_class_name>
+        <sys_created_by>pritam.gaonkar@snc</sys_created_by>
+        <sys_created_on>2021-02-08 21:44:54</sys_created_on>
+        <sys_id>0ace2c5cdb1ea8102cc1fd131d96195e</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>cace2c5cdb1ea8102cc1fd131d96195c</sys_name>
+        <sys_package display_value="ddtestpritam" source="x_snc_ddtestpritam">ae1ee81cdb1ea8102cc1fd131d9619d9</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="ddtestpritam">ae1ee81cdb1ea8102cc1fd131d9619d9</sys_scope>
+        <sys_update_name>sys_embedded_help_role_0ace2c5cdb1ea8102cc1fd131d96195e</sys_update_name>
+        <sys_updated_by>pritam.gaonkar@snc</sys_updated_by>
+        <sys_updated_on>2021-02-08 21:44:54</sys_updated_on>
+    </sys_embedded_help_role>
+</record_update>

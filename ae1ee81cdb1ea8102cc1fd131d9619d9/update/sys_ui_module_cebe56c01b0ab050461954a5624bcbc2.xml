@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ui_module">
+    <sys_ui_module action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <application display_value="u_test_ddtest">8ebe56c01b0ab050461954a5624bcbbf</application>
+        <filter/>
+        <name>u_test_ddtests</name>
+        <order/>
+        <path/>
+        <path_relative_to_root>false</path_relative_to_root>
+        <roles>x_snc_ddtestpritam.u_test_ddtest_user</roles>
+        <sys_class_name>sys_ui_module</sys_class_name>
+        <sys_created_by>pritam.gaonkar@snc</sys_created_by>
+        <sys_created_on>2021-08-13 21:10:57</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>cebe56c01b0ab050461954a5624bcbc2</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>u_test_ddtests</sys_name>
+        <sys_package display_value="ddtestpritam" source="x_snc_ddtestpritam">ae1ee81cdb1ea8102cc1fd131d9619d9</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="ddtestpritam">ae1ee81cdb1ea8102cc1fd131d9619d9</sys_scope>
+        <sys_update_name>sys_ui_module_cebe56c01b0ab050461954a5624bcbc2</sys_update_name>
+        <sys_updated_by>pritam.gaonkar@snc</sys_updated_by>
+        <sys_updated_on>2021-08-13 21:10:57</sys_updated_on>
+        <table>x_snc_ddtestpritam_u_test_ddtest</table>
+        <uncancelable>false</uncancelable>
+        <view_name/>
+    </sys_ui_module>
+</record_update>
