@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element label="Thirdtable" max_length="40" name="x_snc_ddtestpritam_thirdtable" type="collection">
+        <element label="new_col" max_length="40" name="new_col" type="string"/>
+    </element>
+</database>

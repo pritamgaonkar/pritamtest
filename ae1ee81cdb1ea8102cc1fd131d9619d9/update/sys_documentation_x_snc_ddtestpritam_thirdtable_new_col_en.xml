@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_documentation element="new_col" label="New col" language="en" table="x_snc_ddtestpritam_thirdtable">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>new_col</element>
+            <help/>
+            <hint/>
+            <label>New col</label>
+            <language>en</language>
+            <name>x_snc_ddtestpritam_thirdtable</name>
+            <plural>New cols</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>pritam.gaonkar@snc</sys_created_by>
+            <sys_created_on>2021-10-26 22:41:06</sys_created_on>
+            <sys_id>900977bf1b57b010461954a5624bcb8d</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>New col</sys_name>
+            <sys_package display_value="ddtestpritam" source="x_snc_ddtestpritam">ae1ee81cdb1ea8102cc1fd131d9619d9</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="ddtestpritam">ae1ee81cdb1ea8102cc1fd131d9619d9</sys_scope>
+            <sys_update_name>sys_documentation_x_snc_ddtestpritam_thirdtable_new_col_en</sys_update_name>
+            <sys_updated_by>pritam.gaonkar@snc</sys_updated_by>
+            <sys_updated_on>2021-10-26 22:41:06</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>
